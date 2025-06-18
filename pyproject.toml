@@ -38,6 +38,3 @@ no_implicit_optional = true
 warn_return_any = true
 check_untyped_defs = true
 exclude = 'venv'
-
-[tool.pytest.ini_options]
-addopts = "--cov --cov-report term-missing"
