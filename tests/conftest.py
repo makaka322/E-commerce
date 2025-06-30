@@ -52,3 +52,4 @@ def category_1():
 def category_2():
     def product_iterator(category_1):
         return ProductIterator(category_1)
+

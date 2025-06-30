@@ -87,3 +87,4 @@ def test_price_decrease_with_confirmation(new_price, user_response, expected_fin
         product.price = new_price
         assert product.price == expected_final_price
         mock_print.assert_called_with(expected_message)
+

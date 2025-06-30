@@ -52,3 +52,4 @@ class Product:
         else:
             self.__price = value
             print(f"Цена успешно изменена на {self.__price}")
+

@@ -17,3 +17,4 @@ class ProductIterator:
             return products
         else:
             raise StopIteration
+
