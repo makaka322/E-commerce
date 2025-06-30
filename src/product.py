@@ -16,6 +16,7 @@ class Product:
 
     def __add__(self, other):
         return self.__price * self.quantity + other.price * other.quantity
+
     @classmethod
     def new_product(cls, product_info, existing_products=None):
         existing_products = existing_products if existing_products is not None else []
