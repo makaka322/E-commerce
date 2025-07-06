@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 15_1" />
+    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 15_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/homework_14_1" />
+        <entry key="$PROJECT_DIR$" value="feature/homework_14_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for category.test_category_init.executor": "Run",
+    "Python tests.Python tests for test_category.test_add_product.executor": "Run",
     "Python tests.Python tests for test_category.test_category_init.executor": "Run",
     "Python tests.Python tests for test_category.test_category_str.executor": "Run",
     "Python tests.Python tests for test_category.test_product_iterator.executor": "Run",
@@ -58,7 +61,7 @@
     "Python.category.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#2 on feature/homework__14__2"
+    "git-widget-placeholder": "#3 on feature/homework__15__1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,6 +70,21 @@
     </key>
   </component>
   <component name="RunManager" selected="Python tests.Python tests for test_category.test_product_iterator">
+    <configuration name="Python tests for test_category.test_add_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_category.test_add_product&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_category.test_category_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
@@ -112,21 +130,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_product.test_product_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="E-commerce" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_product_init&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_product.test_product_str" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
@@ -145,10 +148,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for test_category.test_product_iterator" />
+        <item itemvalue="Python tests.Python tests for test_category.test_add_product" />
         <item itemvalue="Python tests.Python tests for test_category.test_category_init" />
         <item itemvalue="Python tests.Python tests for test_product.test_product_str" />
         <item itemvalue="Python tests.Python tests for test_category.test_category_str" />
-        <item itemvalue="Python tests.Python tests for test_product.test_product_init" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751306031675</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Made Homework 15_1">
+      <option name="closed" value="true" />
+      <created>1751306309864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751306309864</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

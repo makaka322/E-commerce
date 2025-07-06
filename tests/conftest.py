@@ -49,7 +49,6 @@ def category_1():
 
 
 @pytest.fixture
-def category_2():
-    def product_iterator(category_1):
-        return ProductIterator(category_1)
+def product_iterator(category_1):
+    return ProductIterator(category_1)
 
