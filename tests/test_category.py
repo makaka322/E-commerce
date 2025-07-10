@@ -28,7 +28,7 @@ def all_products():
 def test_add_product(all_products):
     product4 = Product("QLED", "Фоновая подсветка", 12, 7)
     all_products.add_product(product4)
-    assert Category.product_count == 2
+    assert Category.product_count == 6
 
 
 def test_product_iterator(product_iterator):

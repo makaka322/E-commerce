@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 15_1">
+    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 15_1 all">
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/tests/.coverage" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
     "Python tests.Python tests for test_category.test_category_init.executor": "Run",
     "Python tests.Python tests for test_category.test_category_str.executor": "Run",
     "Python tests.Python tests for test_category.test_product_iterator.executor": "Run",
+    "Python tests.Python tests for test_product.test_price_decrease_with_confirmation.executor": "Run",
     "Python tests.Python tests for test_product.test_product_init.executor": "Run",
     "Python tests.Python tests for test_product.test_product_str.executor": "Run",
     "Python tests.Python tests for tests.test_category.test_category_init.executor": "Run",
@@ -69,7 +72,7 @@
       <recent name="C:\Users\Тёма\PycharmProjects\E-commerce" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_category.test_product_iterator">
+  <component name="RunManager" selected="Python tests.Python tests for test_category.test_category_init">
     <configuration name="Python tests for test_category.test_add_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
@@ -130,7 +133,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_product.test_product_str" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_product.test_price_decrease_with_confirmation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,17 +144,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_product_str&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_price_decrease_with_confirmation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_category.test_category_init" />
+        <item itemvalue="Python tests.Python tests for test_category.test_category_str" />
         <item itemvalue="Python tests.Python tests for test_category.test_product_iterator" />
         <item itemvalue="Python tests.Python tests for test_category.test_add_product" />
-        <item itemvalue="Python tests.Python tests for test_category.test_category_init" />
-        <item itemvalue="Python tests.Python tests for test_product.test_product_str" />
-        <item itemvalue="Python tests.Python tests for test_category.test_category_str" />
+        <item itemvalue="Python tests.Python tests for test_product.test_price_decrease_with_confirmation" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751306309864</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Made Homework 15_1 all">
+      <option name="closed" value="true" />
+      <created>1751823671974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751823671974</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +237,18 @@
     <MESSAGE value="ИСправил комментарии" />
     <MESSAGE value="Home_Work_14_2" />
     <MESSAGE value="Made Homework 15_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Homework 15_1" />
+    <MESSAGE value="Made Homework 15_1 all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Homework 15_1 all" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_product.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
