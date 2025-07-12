@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 15_1 all">
-      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 15_1 all 2 part">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/category.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/tests/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_category.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_category.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/homework_14_2" />
+        <entry key="$PROJECT_DIR$" value="feature/homework_15_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +67,7 @@
     "Python.category.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#3 on feature/homework__15__1"
+    "git-widget-placeholder": "feature/homework__16__1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,7 +75,7 @@
       <recent name="C:\Users\Тёма\PycharmProjects\E-commerce" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_category.test_category_init">
+  <component name="RunManager" selected="Python tests.Python tests for test_new_products.test_product_smartphone_init">
     <configuration name="Python tests for test_category.test_add_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
@@ -133,7 +136,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_product.test_price_decrease_with_confirmation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_new_products.test_product_smartphone_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,17 +147,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_price_decrease_with_confirmation&quot;" />
+      <option name="_new_target" value="&quot;test_new_products.test_product_smartphone_init&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_new_products.test_product_smartphone_init" />
+        <item itemvalue="Python tests.Python tests for test_category.test_add_product" />
         <item itemvalue="Python tests.Python tests for test_category.test_category_init" />
         <item itemvalue="Python tests.Python tests for test_category.test_category_str" />
         <item itemvalue="Python tests.Python tests for test_category.test_product_iterator" />
-        <item itemvalue="Python tests.Python tests for test_category.test_add_product" />
-        <item itemvalue="Python tests.Python tests for test_product.test_price_decrease_with_confirmation" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751823671974</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Made Homework 15_1 all 2 part">
+      <option name="closed" value="true" />
+      <created>1752170416103</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752170416103</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,7 +249,8 @@
     <MESSAGE value="Home_Work_14_2" />
     <MESSAGE value="Made Homework 15_1" />
     <MESSAGE value="Made Homework 15_1 all" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Homework 15_1 all" />
+    <MESSAGE value="Made Homework 15_1 all 2 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Homework 15_1 all 2 part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
