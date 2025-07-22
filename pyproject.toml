@@ -3,7 +3,7 @@ name = "e-commerce"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Artem Chirikov",email = "Chirik2000xd@mail.ru"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
@@ -17,6 +17,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^7.2.0"
+pytest = "^8.4.1"
 
 
 [tool.poetry.group.lint.dependencies]
@@ -38,3 +39,5 @@ warn_return_any = true
 check_untyped_defs = true
 exclude = 'venv'
 
+[tool.pytest.ini_options]
+addopts = "--cov --cov-report term-missing"

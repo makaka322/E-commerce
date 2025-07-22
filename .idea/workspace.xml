@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="" />
+    <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 16_1">
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/category.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/tests/.coverage" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,27 +24,142 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/homework_15_1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;makaka322&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/makaka322/E-commerce.git&quot;,
+    &quot;accountId&quot;: &quot;9105c605-f76e-4289-b7b3-91cd272348f5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ygai8WwYsZ2KS8qt8lvYw4qHYf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for category.test_category_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_category.test_add_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_category.test_category_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_category.test_category_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_category.test_product_iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_new_products.test_product_smartphone_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_price_decrease_with_confirmation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_product_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_product_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_category.test_category_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python.category.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#4 on feature/homework__16__1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Тёма\PycharmProjects\E-commerce" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_product.test_price_decrease_with_confirmation">
+    <configuration name="Python tests for test_category.test_add_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_category.test_add_product&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_category.test_category_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_category.test_category_init&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_category.test_category_str" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_category.test_category_str&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_new_products.test_product_smartphone_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_new_products.test_product_smartphone_init&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_product.test_price_decrease_with_confirmation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_price_decrease_with_confirmation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_product.test_price_decrease_with_confirmation" />
+        <item itemvalue="Python tests.Python tests for test_new_products.test_product_smartphone_init" />
+        <item itemvalue="Python tests.Python tests for test_category.test_add_product" />
+        <item itemvalue="Python tests.Python tests for test_category.test_category_init" />
+        <item itemvalue="Python tests.Python tests for test_category.test_category_str" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -55,6 +176,100 @@
       <option name="presentableId" value="Default" />
       <updated>1750258795261</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mad all tasks">
+      <option name="closed" value="true" />
+      <created>1750265946013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750265946013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mad all tasks">
+      <option name="closed" value="true" />
+      <created>1750267271609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750267271609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ИСправил комментарии">
+      <option name="closed" value="true" />
+      <created>1750339876334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750339876334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Home_Work_14_2">
+      <option name="closed" value="true" />
+      <created>1750697866923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750697866923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Made Homework 15_1">
+      <option name="closed" value="true" />
+      <created>1751306031675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751306031675</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Made Homework 15_1">
+      <option name="closed" value="true" />
+      <created>1751306309864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751306309864</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Made Homework 15_1 all">
+      <option name="closed" value="true" />
+      <created>1751823671974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751823671974</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Made Homework 15_1 all 2 part">
+      <option name="closed" value="true" />
+      <created>1752170416103</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752170416103</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Made Homework 16_1">
+      <option name="closed" value="true" />
+      <created>1752339792581</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752339792581</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mad all tasks" />
+    <MESSAGE value="ИСправил комментарии" />
+    <MESSAGE value="Home_Work_14_2" />
+    <MESSAGE value="Made Homework 15_1" />
+    <MESSAGE value="Made Homework 15_1 all" />
+    <MESSAGE value="Made Homework 15_1 all 2 part" />
+    <MESSAGE value="Made Homework 16_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Homework 16_1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_product.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
