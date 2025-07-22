@@ -8,12 +8,13 @@ class Product(BaseProduct, PrintMixin):
     price: float
     quantity: int
 
-
     def __init__(self, name, description, price, quantity):
         self.name = name
         self.description = description
         self.__price = price
         self.quantity = quantity
+        if quantity == 0:
+            raise ValueError('Товар с нулевым количеством не может быть добавлен')
         super().__init__()
 
     def __str__(self):
@@ -59,4 +60,3 @@ class Product(BaseProduct, PrintMixin):
         else:
             self.__price = value
             print(f"Цена успешно изменена на {self.__price}")
-

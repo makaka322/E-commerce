@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1abe0da-400b-445c-9645-9885a70d0375" name="Changes" comment="Made Homework 16_1">
-      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/category.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/new_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/tests/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/product_iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_category.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/homework_15_1" />
+        <entry key="$PROJECT_DIR$" value="homework_17_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,31 +56,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for category.test_category_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_category.test_add_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_category.test_category_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_category.test_category_str.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_category.test_product_iterator.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_new_products.test_product_smartphone_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_product.test_price_decrease_with_confirmation.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_product.test_product_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_product.test_product_str.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests.test_category.test_category_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python.category.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#4 on feature/homework__16__1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for category.test_category_init.executor": "Run",
+    "Python tests.Python tests for test_category.test_add_product.executor": "Run",
+    "Python tests.Python tests for test_category.test_category_init.executor": "Run",
+    "Python tests.Python tests for test_category.test_category_str.executor": "Run",
+    "Python tests.Python tests for test_category.test_product_iterator.executor": "Run",
+    "Python tests.Python tests for test_new_products.test_product_smartphone_init.executor": "Run",
+    "Python tests.Python tests for test_order.test_order.executor": "Run",
+    "Python tests.Python tests for test_product.test_price_decrease_with_confirmation.executor": "Run",
+    "Python tests.Python tests for test_product.test_product_init.executor": "Run",
+    "Python tests.Python tests for test_product.test_product_str.executor": "Run",
+    "Python tests.Python tests for tests.test_category.test_category_init.executor": "Run",
+    "Python.category.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/homework__17__1"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Тёма\PycharmProjects\E-commerce" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_product.test_price_decrease_with_confirmation">
+  <component name="RunManager" selected="Python tests.Python tests for test_product.test_product_init">
     <configuration name="Python tests for test_category.test_add_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
@@ -88,36 +94,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_category.test_add_product&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_category.test_category_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="E-commerce" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_category.test_category_init&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_category.test_category_str" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="E-commerce" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_category.test_category_str&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -136,6 +112,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_order.test_order" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_order.test_order&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_product.test_price_decrease_with_confirmation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E-commerce" />
       <option name="ENV_FILES" value="" />
@@ -151,13 +142,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_product.test_product_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="E-commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_product_init&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_product.test_product_init" />
+        <item itemvalue="Python tests.Python tests for test_order.test_order" />
         <item itemvalue="Python tests.Python tests for test_product.test_price_decrease_with_confirmation" />
         <item itemvalue="Python tests.Python tests for test_new_products.test_product_smartphone_init" />
         <item itemvalue="Python tests.Python tests for test_category.test_add_product" />
-        <item itemvalue="Python tests.Python tests for test_category.test_category_init" />
-        <item itemvalue="Python tests.Python tests for test_category.test_category_str" />
       </list>
     </recent_temporary>
   </component>
@@ -260,16 +266,5 @@
     <MESSAGE value="Made Homework 15_1 all 2 part" />
     <MESSAGE value="Made Homework 16_1" />
     <option name="LAST_COMMIT_MESSAGE" value="Made Homework 16_1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_product.py</url>
-          <line>82</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
